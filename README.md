@@ -1,1 +1,1 @@
-SUB : Create basic recipe website
+ Create basic recipe website
